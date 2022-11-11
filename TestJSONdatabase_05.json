@@ -1,26 +1,37 @@
 {
   "Actual date": "11/11/2022",
+
   "Operators ID": ["001257","00045","017454","71822","17444"],
+
   "Number of workers":12,
+
   "Number of work hours":104,
+
   "IsMachine01used":true,
   "Machine01cost":33,
   "Machine01hours":4,
   "Machine01notes":"-",
+
   "IsMachine02used":false,
   "Machine02cost":45,
   "Machine02hours":0,
   "Machine02notes":"Machine is broken",
+
   "IsMachine03used":false,
   "Machine03cost":95,
   "Machine03hours":0,
   "Machine03notes":"-",
+
   "IsMachine04used":true,
   "Machine04cost":30,
   "Machine04hours":8,
   "Machine04notes":"-",
+
   "IsMachine05used":true,
   "Machine05cost":32,
   "Machine05hours":2,
-  "Machine05notes":"To change tires"
+  "Machine05notes":"To change tires",
+
+  "Actual advancement":472
+
 }
